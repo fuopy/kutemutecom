@@ -2,6 +2,22 @@ html {
 	background-color: black;
 }
 
+.container {
+	justify-content: center;
+	margin-left: auto;
+    margin-right: auto;
+    width: 50vw;
+}
+
+@media (max-width:1200px) {
+	.container {
+		justify-content: center;
+		margin-left: auto;
+		margin-right: auto;
+		width: 100vw;
+	}
+}
+
 .toplogo {
 	display: block;
 	margin-left: auto;
