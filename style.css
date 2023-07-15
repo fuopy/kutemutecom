@@ -1,0 +1,41 @@
+html {
+	background-color: black;
+}
+
+.toplogo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+}
+
+.outer {
+	display: inline-block;
+	/*border: 1px solid white*/
+	width: 100%;
+}
+.inner {
+	/*border: 1px solid red;*/
+}
+
+.prodthumb {
+	float: left;
+	width: 128px;
+}
+
+p {
+	font-family: sans-serif;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+}
+
+h2 {
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+}
